@@ -4,6 +4,12 @@
 TikTok, a leading platform for short-form mobile video, aims to foster inclusive, joyful, and authentic content creation. The data team focuses on increasing opinion videos, vital for platform growth. Observing that verified users are more likely to post opinions, the team aims to predict verified status based on video characteristics. This project involves developing a machine-learning model to classify videos as claims or opinions.
  We addressed skewed data, class imbalance & multicollinearity. The model achieved 74% precision.
 
+ ## Business Problem Questions:
+1. How do different variables correlate with user verification?
+2. What are the implications of engagement levels on claim status?
+3. How effective are strategies for addressing class imbalance and multicollinearity in logistic regression modeling?
+4. What additional insights can be gleaned from the model evaluation to inform business decisions?
+
 <br> This project has 4 parts:
 * Business Problem
 * Data Understanding
